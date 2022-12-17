@@ -1,1 +1,1 @@
-algo@gmail.com,a@mail.com
+algo@gmail.com,a@mail.com,b@mail.com
